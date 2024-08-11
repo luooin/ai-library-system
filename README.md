@@ -42,11 +42,12 @@
 
 **书籍管理**
 
-![image](https://github.com/user-attachments/assets/f50cf32c-deda-43df-af2c-d10c27703310)
+![image](https://github.com/user-attachments/assets/57c11c89-2ac4-40ae-8c86-c4e96aa404cf)
+
 
 **借阅证管理**
 
-![image](https://github.com/user-attachments/assets/3d8b8f7c-3fe3-45a4-a9b6-23ac1a25f140)
+![image](https://github.com/user-attachments/assets/f50cf32c-deda-43df-af2c-d10c27703310)
 
 **智能分析**
 
